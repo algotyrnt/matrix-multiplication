@@ -2,8 +2,6 @@ numRL1 = []
 numCL1 = []
 numRL2 = []
 numCL2 = []
-matrRL = []
-matL = []
 matRV = 0
 
 rows1 = int(input("Enter the number of rows first matrix have "))
